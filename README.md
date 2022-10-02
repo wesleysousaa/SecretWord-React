@@ -1,2 +1,2 @@
 # SecretWord-React
-Jogo da forca com React apenas para treinamento
+Jogo da forca com React apenas para treinamento.
